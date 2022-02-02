@@ -2,7 +2,7 @@ package com.principal;
 public class Calculadora {
 
     private double resultado;
-    private char operador = ' '; 
+    private char operador = ' ';
 
     public Calculadora() {
         resultado = 0;
